@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>naingue/wordshop2</title>
+	<title>naingue</title>
 </head>
 <body>
-
+        workshop2/naingue
 </body>
 </html>
